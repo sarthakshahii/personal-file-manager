@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-file-manager/static/css/main.f7d43bd6.css",
+    "main.js": "/personal-file-manager/static/js/main.e32717b3.js",
+    "index.html": "/personal-file-manager/index.html",
+    "main.f7d43bd6.css.map": "/personal-file-manager/static/css/main.f7d43bd6.css.map",
+    "main.e32717b3.js.map": "/personal-file-manager/static/js/main.e32717b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7d43bd6.css",
+    "static/js/main.e32717b3.js"
+  ]
+}
